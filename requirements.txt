@@ -1,0 +1,8 @@
+rdkit
+deepchem
+deepxde
+phiflow
+aizynthfinder
+torch
+llvmlite
+numba
