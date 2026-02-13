@@ -1,0 +1,12 @@
+# 相图应用依赖库
+numpy
+scipy
+matplotlib
+pandas
+rdkit
+pubchempy
+python-ternary
+streamlit
+torch
+transformers
+huggingface_hub
